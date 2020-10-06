@@ -4,6 +4,7 @@ public class PRUEBA
         System.out.println("Jaime Alvarez Lopez");
 	System.out.println("León, 16/05/2002");
 	System.out.println("Trobajo del Camino, Linux MINT");
+	System.out.println("Hola alumnos de DAM1!");
 	System.out.println("Jaime Alvarez Lopez");
     }
 
